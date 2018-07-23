@@ -5,6 +5,7 @@
 # usage:
 # cd srv && make all
 # cd cli && make all
+# chmod 755 ./cli/sock_cli_once_loop.sh
 # 
 # run server: ./srv/pth_pool
 # run client: ./cli/sock_cli_once_loop.sh
